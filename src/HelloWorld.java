@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Sample program for testing builds in Jenkins
 		System.out.println("Hello World!  Testing Jenkins Build");
 
 	}
